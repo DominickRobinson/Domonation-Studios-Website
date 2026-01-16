@@ -1,0 +1,5 @@
+baseURL = 'https://studios.domonation.dev/'
+languageCode = 'en-us'
+title = 'Domonation Studios'
+
+theme = "nomad-tech"
